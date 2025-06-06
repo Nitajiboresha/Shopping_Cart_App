@@ -24,10 +24,12 @@ int main() {
         "Bread for Kshs.50",
         "Milk for Kshs.60",
         "Eggs @ Kshs.15",
-        "Tea for Kshs.200"
+        "Tea for Kshs.200",
+        "Soap for Kshs.200",
+        "Toothpaste for Ksh.s 70"
     };
-    float itemPrices[] = {50.0, 60.0, 15.0, 200.0};
-    int numItems = 4;
+    float itemPrices[] = {50.0, 60.0, 15.0, 200.0, 200.0, 70};
+    int numItems = 6;
 
     int itemNoNames;
     char itemName[100];
